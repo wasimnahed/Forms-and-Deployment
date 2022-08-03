@@ -1,0 +1,1 @@
+mongodb+srv://wasim:1234@cluster0.wklc6.mongodb.net/local-library?retryWrites=true&w=majority
